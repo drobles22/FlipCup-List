@@ -13,10 +13,10 @@
         { "id": "TQ03", "name": "Paloma", "descripcion": "Bebida mexicana elaborada a base de tequila y refresco de naranja, limon y escarchado con sal","precio":3500,"categoria":"Tequila" },
         { "id": "TQ04", "name": "Tequila Sunrise", "descripcion": "Mezcla de tequila, zumo de naranja, licor de granadina y limon","precio":3500,"categoria":"Tequila" },
 
-        { "id": "Vk01", "name": "Cosmopolitan", "descripcion": "Mezcla de tequila, zumo de naranja, licor de granadina y limon","precio":3500,"categoria":"Tequila" },
-        { "id": "Vk02", "name": "Bloody Mary", "descripcion": "Mezcla de tequila, zumo de naranja, licor de granadina y limon","precio":3500,"categoria":"Tequila" },
-        { "id": "Vk03", "name": "Vodka SPRITZER", "descripcion": "vodka, zumo de arándanos, fresas, limón y soda","precio":3500,"categoria":"Tequila" },
-        { "id": "Vk04", "name": "Moscovita", "descripcion": "Mezcla de vodka,Curaçao Rojo, licor de menta y citricos","precio":3500,"categoria":"Tequila" }
+        { "id": "Vk01", "name": "Cosmopolitan", "descripcion": "Se prepara con vodka, triple seco, zumo de arándanos rojos y zumo de lima recién exprimido.","precio":3500,"categoria":"Vodka" },
+        { "id": "Vk02", "name": "Bloody Mary", "descripcion": "Mezcla de tequila, zumo de naranja, licor de granadina y limon","precio":3500,"categoria":"Vodka" },
+        { "id": "Vk03", "name": "Vodka SPRITZER", "descripcion": "vodka, zumo de arándanos, fresas, limón y soda","precio":3500,"categoria":"Vodka" },
+        { "id": "Vk04", "name": "Moscovita", "descripcion": "Mezcla de vodka,Curaçao Rojo, licor de menta y citricos","precio":3500,"categoria":"Vodka" }
 
 
       ]
