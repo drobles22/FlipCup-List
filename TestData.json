@@ -1,0 +1,23 @@
+{
+
+    "BebidasItems": [
+        { "id": "Rn01" ,"name": "Mojito", "descripcion": "Combina el clásico ron blanco BACARDÍ con la vibrante frescura de la lima recién exprimida, coronándolo con hojas de menta y hielo", "precio":3500,"categoria":"Ron" },
+        { "id": "Rn02", "name": "Cuba Libre", "descripcion": "Mezcla del refresco de coca cola con ron y jugo de limón.","precio":3500,"categoria":"Ron" },
+        { "id": "Rn03", "name": "Daiquiri", "descripcion": "Cóctel escarchado hecho con ron blanco, jugo de limón, azúcar y se usa de base Fresa, Maracuya o clasico.","precio":3500,"categoria":"Ron" },
+        { "id": "Rn04", "name": "Flor Ginger", "descripcion": "Mezcla a base de ron Flor de Caña 12 junto con Ginger Ale y citricos,","precio":3500,"categoria":"Ron" },
+        { "id": "Rn05", "name": "Blue Hawaai", "descripcion": "Hecho con piña, ron de coco, crema de coco, y curaçao azul","precio":3500,"categoria":"Ron" },
+
+        
+        { "id": "TQ01", "name": "Margarita", "descripcion": "Compuesto por tequila, triple seco y jugo de lima o limón, con sal en el borde de la copa. Se puede elegir tradicional, de fresa o maracuya","precio":3500,"categoria":"Tequila" },
+        { "id": "TQ02", "name": "Tequila Roze Frozen", "descripcion": "Crema de licor de Fresas en la que se añade Tequila Mexicano","precio":4000,"categoria":"Tequila" },
+        { "id": "TQ03", "name": "Paloma", "descripcion": "Bebida mexicana elaborada a base de tequila y refresco de naranja, limon y escarchado con sal","precio":3500,"categoria":"Tequila" },
+        { "id": "TQ04", "name": "Tequila Sunrise", "descripcion": "Mezcla de tequila, zumo de naranja, licor de granadina y limon","precio":3500,"categoria":"Tequila" },
+
+        { "id": "Vk01", "name": "Cosmopolitan", "descripcion": "Mezcla de tequila, zumo de naranja, licor de granadina y limon","precio":3500,"categoria":"Tequila" },
+        { "id": "Vk02", "name": "Bloody Mary", "descripcion": "Mezcla de tequila, zumo de naranja, licor de granadina y limon","precio":3500,"categoria":"Tequila" },
+        { "id": "Vk03", "name": "Vodka SPRITZER", "descripcion": "vodka, zumo de arándanos, fresas, limón y soda","precio":3500,"categoria":"Tequila" },
+        { "id": "Vk04", "name": "Moscovita", "descripcion": "Mezcla de vodka,Curaçao Rojo, licor de menta y citricos","precio":3500,"categoria":"Tequila" }
+
+
+      ]
+}
