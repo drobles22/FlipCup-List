@@ -42,28 +42,6 @@
         { "id": "SA03", "name": "Michelada 0", "descripcion": "Esta michelada usa los ingrediente de una michelada trdicional como son la sal, limon pero usando cerveza Heineken con 0% de alcohol","precio":3000,"categoria":"SinAlcohol" },
         { "id": "SA04", "name": "Light Mule", "descripcion": "Usando de base cerveza Heineken con 0% de alcohol, esta mezcla ademas agrega jarabe de jengibre, frutos rojos y jarabe de coco ","precio":3000,"categoria":"SinAlcohol" }
     
-    ]
-    }
-
-
-
-
-
-
-
-
-        
-
-
-
-
-        
-
-
-
-
-        
-
 
       ]
 }
