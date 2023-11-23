@@ -1,11 +1,11 @@
 {
 
     "BebidasItems": [
-        { "id": "Rn01" ,"name": "Mojito", "descripcion": "Combina el clásico ron blanco BACARDÍ con la vibrante frescura de la lima recién exprimida, coronándolo con hojas de menta y hielo", "precio":3500,"categoria":"Ron" },
-        { "id": "Rn02", "name": "Cuba Libre", "descripcion": "Mezcla del refresco de coca cola con ron y jugo de limón.","precio":3500,"categoria":"Ron" },
-        { "id": "Rn03", "name": "Daiquiri", "descripcion": "Cóctel escarchado hecho con ron blanco, jugo de limón, azúcar y se usa de base Fresa, Maracuya o clasico.","precio":3500,"categoria":"Ron" },
-        { "id": "Rn04", "name": "Flor Ginger", "descripcion": "Mezcla a base de ron Flor de Caña 12 junto con Ginger Ale y citricos,","precio":3500,"categoria":"Ron" },
-        { "id": "Rn05", "name": "Blue Hawaai", "descripcion": "Hecho con piña, ron de coco, crema de coco, y curaçao azul","precio":3500,"categoria":"Ron" },
+        { "id": "RN01" ,"name": "Mojito", "descripcion": "Combina el clásico ron blanco BACARDÍ con la vibrante frescura de la lima recién exprimida, coronándolo con hojas de menta y hielo", "precio":3500,"categoria":"Ron" },
+        { "id": "RN02", "name": "Cuba Libre", "descripcion": "Mezcla del refresco de coca cola con ron y jugo de limón.","precio":3500,"categoria":"Ron" },
+        { "id": "RN03", "name": "Daiquiri", "descripcion": "Cóctel escarchado hecho con ron blanco, jugo de limón, azúcar y se usa de base Fresa, Maracuya o clasico.","precio":3500,"categoria":"Ron" },
+        { "id": "RN04", "name": "Flor Ginger", "descripcion": "Mezcla a base de ron Flor de Caña 12 junto con Ginger Ale y citricos,","precio":3500,"categoria":"Ron" },
+        { "id": "RN05", "name": "Blue Hawaai", "descripcion": "Hecho con piña, ron de coco, crema de coco, y curaçao azul","precio":3500,"categoria":"Ron" },
 
         
         { "id": "TQ01", "name": "Margarita", "descripcion": "Compuesto por tequila, triple seco y jugo de lima o limón, con sal en el borde de la copa. Se puede elegir tradicional, de fresa o maracuya","precio":3500,"categoria":"Tequila" },
@@ -17,6 +17,54 @@
         { "id": "Vk02", "name": "Tropical Screwdriver", "descripcion": "Basado en el Screwdriver original, siendo una mezcla de jugo de naranja, vodka, un toque de licor de cereza y rodajas de citricos","precio":3500,"categoria":"Vodka" },
         { "id": "Vk03", "name": "Vodka SPRITZER", "descripcion": "vodka, zumo de arándanos, fresas, limón y soda","precio":3500,"categoria":"Vodka" },
         { "id": "Vk04", "name": "Moscovita", "descripcion": "Mezcla de vodka,Curaçao Rojo, licor de menta y citricos","precio":3500,"categoria":"Vodka" }
+
+        { "id": "GT01", "name": "Tom Collins", "descripcion": "Cóctel clasico de ginebra, limon y soda","precio":3500,"categoria":"Gin" }
+        { "id": "GT02", "name": "Gin Tonic", "descripcion": "Trago largo y reposado compuesto de ginebra y agua tónica servida con hielo, usando de base de sabor una fruta a elegir como pueden ser Fresa, Mora, Naranja o Maracuya","precio":3500,"categoria":"Gin" }
+        { "id": "GT03", "name": "Sapphire", "descripcion": "Mezcla Bombay Sapphire con licor de melocoton, zumo de arándanos o arandaos naturales y zumo de naranja.","precio":4000,"categoria":"Gin" }
+        { "id": "GT04", "name": "Gin Mule", "descripcion": "Cóctel que mezcla menta, ginebra, Ginger ale y zumo de lima","precio":3500,"categoria":"Gin" }
+
+        { "id": "LC01", "name": "Cacitran", "descripcion": "Clasica mezcla nacional de cacique, soda, limon y sal","precio":3500,"categoria":"Licores" }
+        { "id": "LC02", "name": "Jäger Bomb", "descripcion": "Hecho con el licor Jägermeister y la bebida energizante Red Bull. (Puedes cambiar el Red Bull por alcopops de guarana)","precio":3500,"categoria":"Licores" }
+        { "id": "LC03", "name": "JägSun", "descripcion": "Usando de base Jägermeister, este se mezcla con ron de coco y zumo de naranja","precio":4000,"categoria":"Licores" }
+        { "id": "LC04", "name": "Hpnotiq Breeze", "descripcion": "Bebida refrescante basada en Hpnotiq, junto con ron de coco y jugo de piña","precio":4000,"categoria":"Licores" }
+
+        { "id": "OG01", "name": "Dembow42", "descripcion": "Desde nuestro propio bar este cóctel mezcla Hpnotiq, vodka, licor de manzana y zumo de toronja ","precio":4000,"categoria":"Originales" }
+        { "id": "OG02", "name": "Dakiti", "descripcion": "Combina lo mejor de diferentes licores, Cacique, Ron blanco, Smirnoff de guarana, licor de kiwi y limon","precio":4500,"categoria":"Originales" }
+        { "id": "OG03", "name": "Tropical Daylight ", "descripcion": "Basado en sabores tropicales tenemos un mezcla de Ron de coco, cacique ligado de sandia, vodka y zumo de naranja y limon ","precio":4500,"categoria":"Originales" }
+        { "id": "OG04", "name": "Calenton", "descripcion": "Cóctel que mezcla Vodka,Jägermeister,Malibu, Blue Curaçao y zumo de piña","precio":4500,"categoria":"Originales" }
+        { "id": "OG05", "name": "Kemba", "descripcion": "Trago fuerte con ingredientes como Ginebra, Hpnotiq, Agua tonica, Blue Curaçao BlueBerries y Kiwi","precio":4500,"categoria":"Originales" }
+        { "id": "OG06", "name": "Big Boss", "descripcion": "El cóctel que no perdona, hecho con cacique, four loko gold, smirnoff black y soda de toronja","precio":4000,"categoria":"Originales" }
+        { "id": "OG07", "name": "Guatauba ", "descripcion": "Mezcla Tequila, Malibu, Cacique ligado de sandia y jugo de piña","precio":4500,"categoria":"Originales" }
+        { "id": "OG08", "name": "Sarpe", "descripcion": "Con sabor nacional, trago con base principal de Cacique, ademas de tequila, Adan y Eva de frutos rojos y triple sec","precio":4000,"categoria":"Originales" }
+
+        { "id": "SA01", "name": "Piña Colada", "descripcion": "Clasico cóctel sin alcohol usando piña, crema de coco, leche en polvo, leche de coco y limon, puedes pedirlo frozen ","precio":3000,"categoria":"SinAlcohol" }
+        { "id": "SA02", "name": "Mint Tonic", "descripcion": "Mezcla simple, ligera pero refrezcante, basado en zumo de lima, jarabe de menta, agua tonica, mojas de menta y almibar ","precio":3000,"categoria":"SinAlcohol" }
+        { "id": "SA03", "name": "Michelada 0", "descripcion": "Esta michelada usa los ingrediente de una michelada trdicional como son la sal, limon pero usando cerveza Heineken con 0% de alcohol","precio":3000,"categoria":"SinAlcohol" }
+        { "id": "SA04", "name": "Light Mule", "descripcion": "Usando de base cerveza Heineken con 0% de alcohol, esta mezcla ademas agrega jarabe de jengibre, frutos rojos y jarabe de coco ","precio":3000,"categoria":"SinAlcohol" }
+
+
+
+
+
+
+        
+
+
+
+
+
+
+        
+
+
+
+
+        
+
+
+
+
+        
 
 
       ]
